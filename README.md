@@ -1,2 +1,0 @@
-# tellmeajoke
-Created with CodeSandbox
